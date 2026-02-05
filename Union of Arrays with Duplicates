@@ -1,0 +1,14 @@
+class Solution:    
+    def findUnion(self, a, b):
+        # code here
+        res = set()
+        res.update(a)
+        res.update(b)
+        return list(res)
+        
+        # Another approach
+        # arr1 = set(a)
+        # arr2 = set(b)
+        # res = arr1.union(arr2) or res = arr1 | arr2
+        # return list(res)
+        
