@@ -1,0 +1,28 @@
+class Solution:
+    def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
+        res = []
+        list2_dict = dict()
+        for ind, val in enumerate(list2):
+            list2_dict[val] = ind
+
+        # All the common strings of list1 and list2
+        common_strings = dict()
+        for i in range(len(list1)):
+            if list1[i] in list2_dict:
+                second_indx = list2_dict[list1[i]]
+                common_strings[list1[i]] = (i, second_indx)
+        
+        min_sum = len(list1) + len(list2) - 2
+        for key in common_strings:
+            i = common_strings[key][0] 
+            j = common_strings[key][1]
+            min_sum = min(min_sum, i + j)
+
+        # Common strings with the minimum index sum value
+        for key in common_strings:
+            i = common_strings[key][0] 
+            j = common_strings[key][1]
+            if (i + j) == min_sum: 
+                res.append(key)
+        
+        return res
