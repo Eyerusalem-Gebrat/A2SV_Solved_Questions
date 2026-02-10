@@ -1,0 +1,16 @@
+from collections import Counter
+class Solution:
+    def countCharacters(self, words: List[str], chars: str) -> int:
+        len_sum = 0
+        chars_count = Counter(chars)
+        for word in words:
+            have = Counter(word)
+            for char, freq in have.items():
+                if char in chars_count:
+                    if freq > chars_count[char]:
+                        break
+                else: break
+            else: len_sum += len(word)
+
+        return len_sum
+
