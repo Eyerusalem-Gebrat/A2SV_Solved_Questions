@@ -1,0 +1,22 @@
+from collections import defaultdict
+class Solution:
+    def subdomainVisits(self, cpdomains: List[str]) -> List[str]:
+        res = []
+        all_domains = defaultdict(int)
+        for s in cpdomains:
+            arr = s.split()
+            visited = int(arr[0])
+            path = arr[1].split(".")
+            for i in range(len(path)):
+                domain = ".".join(path[i:])
+                if domain in all_domains:
+                    all_domains[domain] += visited
+                else: 
+                    all_domains[domain] = visited
+
+        for key, val in all_domains.items():
+            temp = str(val) + " " + key
+            res.append(temp)
+
+        return res
+         
