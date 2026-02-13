@@ -1,0 +1,28 @@
+from collections import Counter, defaultdict
+class Solution:
+    def intToRoman(self, num: int) -> str:
+        output = ""
+        roman = {1000 : "M", 500 : "D", 100 : "C", 50 : "L", 10 : "X", 5 : "V", 1 : "I"}
+        subtractive = {900 : "CM", 400 : "CD", 90 : "XC", 40 : "XL", 9 : "IX", 4 : "IV"}
+        
+        str_num = str(num)
+        i = len(str_num) - 1
+        for _num in str_num:
+            current = int(_num) * (10 ** i)
+            if current in subtractive:
+                output += subtractive[current]
+                i -= 1
+                continue
+            it = iter(roman)
+            max_val = next(it)
+            while current > 0 and max_val >= 1:
+                if current >= max_val:
+                    current -= max_val
+                    output += roman[max_val]
+                else: max_val = next(it)
+            i -= 1
+            
+        return output
+            
+
+
