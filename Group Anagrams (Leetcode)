@@ -1,0 +1,13 @@
+from collections import Counter, defaultdict 
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        output = []
+        anagrams = defaultdict(list)
+        for s in strs:
+            chars = tuple(sorted(s))
+            anagrams[chars].append(s)
+            
+        for anagram in anagrams.values():
+            output.append(anagram)
+
+        return output
