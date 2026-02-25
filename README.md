@@ -19,6 +19,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
 |  |
@@ -28,4 +29,8 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
