@@ -1,0 +1,35 @@
+t = int(input())
+for _ in range(t):
+  n, x, k = map(int, input().split())
+  s = input()
+
+  count = 0
+  for char in s:
+    if char == "L":
+      x -= 1
+    elif char == "R":
+      x += 1
+
+    k -= 1
+
+    if x == 0:
+      count += 1
+      break
+    if k == 0:
+      break
+  else:
+    print("0")
+    continue
+
+  steps = 0
+  for char in s:
+    if char == "L":
+      x -= 1
+    elif char == "R":
+      x += 1
+    steps += 1
+    if x == 0:
+      count += (k // steps)
+      break
+
+  print(count)
