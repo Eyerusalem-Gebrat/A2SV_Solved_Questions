@@ -8,6 +8,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -28,6 +29,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -62,4 +64,8 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
