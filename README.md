@@ -72,4 +72,12 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
