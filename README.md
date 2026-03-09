@@ -27,6 +27,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -46,6 +47,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -99,6 +101,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
