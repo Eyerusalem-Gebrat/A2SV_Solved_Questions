@@ -17,6 +17,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
 | ------- |
