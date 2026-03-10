@@ -26,6 +26,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -54,6 +55,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Greedy
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sorting
 |  |
@@ -81,6 +83,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Union-Find
 |  |
 | ------- |
