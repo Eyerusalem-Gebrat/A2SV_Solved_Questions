@@ -1,0 +1,10 @@
+matrix = [list(map(int, input().split())) for _ in range(5)]
+row, col = 0, 0
+for i in range(len(matrix)):
+  for j in range(len(matrix[i])):
+    if matrix[i][j] == 1:
+      row = i + 1
+      col = j + 1
+      break
+ans = abs(col - 3) + abs(row - 3)
+print(ans)
