@@ -1,0 +1,13 @@
+n = int(input())
+days = 0
+contests = list(map(int, input().split()))
+contests.sort()
+days = 0
+ 
+i, j = 1, 0
+while j < n:
+  if contests[j] >= i:
+    i += 1
+    days += 1
+  j += 1
+print(days)
