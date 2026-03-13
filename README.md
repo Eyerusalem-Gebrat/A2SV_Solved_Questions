@@ -45,6 +45,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Union-Find
@@ -130,6 +132,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
