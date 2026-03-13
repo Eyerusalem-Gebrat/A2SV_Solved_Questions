@@ -53,6 +53,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -139,7 +142,12 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
