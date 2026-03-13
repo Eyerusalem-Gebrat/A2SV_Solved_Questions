@@ -6,11 +6,10 @@ class Solution:
             for j in range(len(img[i])):
                 _sum = 0
                 count = 0
-                for row in range(i-1, i+2):
-                    for col in range(j-1, j+2):
-                        if 0 <= row < len(img) and 0 <= col < len(img[i]):
-                            _sum += img[row][col]
-                            count += 1
+                for row in range(max(0,i-1), min(len(img), i+2)):
+                    for col in range(max(0,j-1), min(len(img[i]), j+2)):
+                        _sum += img[row][col]
+                        count += 1
                 smooth[i][j] = _sum // count
 
         return smooth
