@@ -8,6 +8,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
@@ -44,6 +45,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -128,5 +130,6 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
