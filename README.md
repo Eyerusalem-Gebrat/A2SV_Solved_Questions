@@ -52,6 +52,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -134,5 +135,6 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
