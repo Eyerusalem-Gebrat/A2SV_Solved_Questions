@@ -58,6 +58,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -140,4 +141,5 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
