@@ -57,6 +57,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0661-image-smoother](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +71,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -79,6 +81,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -91,6 +94,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 ## Sliding Window
 |  |
 | ------- |
