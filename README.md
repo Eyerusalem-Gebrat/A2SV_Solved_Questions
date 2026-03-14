@@ -27,6 +27,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -48,6 +49,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -67,12 +69,14 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
