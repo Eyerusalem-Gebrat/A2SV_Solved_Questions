@@ -15,6 +15,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0791-custom-sort-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -31,6 +32,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0791-custom-sort-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -90,6 +92,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0791-custom-sort-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
