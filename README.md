@@ -11,6 +11,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
@@ -39,6 +40,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -51,6 +53,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -84,6 +87,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
