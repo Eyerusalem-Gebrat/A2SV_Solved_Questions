@@ -123,6 +123,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -138,6 +139,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 ## Counting Sort
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Game Theory
 |  |
