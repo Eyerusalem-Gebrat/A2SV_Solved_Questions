@@ -51,6 +51,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -111,6 +113,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
