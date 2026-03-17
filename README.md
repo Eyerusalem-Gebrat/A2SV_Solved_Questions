@@ -56,6 +56,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -90,6 +91,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0179-largest-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -143,6 +145,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
