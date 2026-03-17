@@ -20,6 +20,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
@@ -73,6 +74,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Greedy
@@ -101,6 +103,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -110,6 +113,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
