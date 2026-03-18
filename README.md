@@ -117,6 +117,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -130,6 +131,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -137,6 +139,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0013-roman-to-integer](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
