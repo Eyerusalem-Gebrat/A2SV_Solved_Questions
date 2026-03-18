@@ -71,6 +71,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | [0976-largest-perimeter-triangle](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -213,4 +214,8 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
