@@ -1,0 +1,24 @@
+t = int(input())
+for _ in range(t):
+  s = input()
+  res = ""
+  l, r = 0, 1
+
+  while r < len(s):
+    if s[l] != s[r] and s[l] not in res:
+      res += s[l]
+      l += 1
+      r += 1
+    elif s[l] == s[r]:
+      l += 2
+      r += 2
+    else:
+      l += 1
+      r += 1
+
+  if l < len(s):
+    if s[l] not in res:
+      res += s[l]
+
+  final = sorted(res)
+  print("".join(final))
