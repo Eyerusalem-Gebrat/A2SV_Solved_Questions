@@ -162,6 +162,7 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1598-crawler-log-folder](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -193,4 +194,16 @@ A personal repository showcasing my solutions to algorithm and data structure pr
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Eyerusalem-Gebrat/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
